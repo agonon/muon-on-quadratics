@@ -17,4 +17,4 @@
 
 
 ### Other figures
-  See `quadratic_experiments/run_experiments.sh` for details about running experiments and generating figures and tables.
+  See `run_experiments.sh` for details about running experiments and generating figures and tables.
