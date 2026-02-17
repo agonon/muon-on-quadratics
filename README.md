@@ -9,7 +9,7 @@
 
 ### Figure 5 (Section 5) and Figure 16 (Appendix G): quadratic exact line search (GD vs Greedy)
 
-- `fig5_quadratic_exact_linesearch.py`: Reproduces Figure 5 (Section 5) and Figure 16 (Appendix G). 
+- `fig5_quadratic_exact_linesearch.ipynb`: Reproduces Figure 5 (Section 5) and Figure 16 (Appendix G). 
   We minimize a quadratic $$L(W)=\tfrac12\langle W, A W\rangle$$ 
   using exact line search along either the gradient direction $\nabla L(W)$ or the Muon/polar direction
   $\mathrm{polar}(\nabla L(W))$. The Greedy policy chooses the direction with the largest decrease in the loss at each iteration. 
